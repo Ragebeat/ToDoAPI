@@ -1,0 +1,1 @@
+Scaffold-DbContext “Data Source=DESKTOP-ATDDHFF\SQLEXPRESS;Initial Catalog=ToDoList;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False;MultipleActiveResultSets=true” Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
